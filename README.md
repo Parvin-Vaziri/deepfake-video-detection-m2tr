@@ -21,4 +21,6 @@ Due to license restrictions, the dataset is **not included** in this repository.
 - NumPy
 
 ## Implementation
-The experiments were implemented in a Jupyter Notebook and executed on Google Colab due to GPU and memory requirements.
+## Implementation
+The model was implemented and executed in Google Colab due to GPU and memory requirements.
+
