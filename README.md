@@ -19,3 +19,6 @@ Due to license restrictions, the dataset is **not included** in this repository.
 - PyTorch
 - OpenCV
 - NumPy
+
+## Implementation
+The experiments were implemented in a Jupyter Notebook and executed on Google Colab due to GPU and memory requirements.
